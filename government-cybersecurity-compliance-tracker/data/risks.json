@@ -1,0 +1,47 @@
+[
+  {
+    "id": "RISK-001",
+    "asset": "Citizen Service Database",
+    "threat": "Unauthorized access",
+    "likelihood": 4,
+    "impact": 5,
+    "owner": "Data Protection Office",
+    "status": "Open"
+  },
+  {
+    "id": "RISK-002",
+    "asset": "Government Email",
+    "threat": "Phishing / credential theft",
+    "likelihood": 4,
+    "impact": 4,
+    "owner": "Cybersecurity Division",
+    "status": "Mitigating"
+  },
+  {
+    "id": "RISK-003",
+    "asset": "Legacy Application",
+    "threat": "Unpatched vulnerability",
+    "likelihood": 3,
+    "impact": 5,
+    "owner": "Digital Administration",
+    "status": "Open"
+  },
+  {
+    "id": "RISK-004",
+    "asset": "Third-Party API",
+    "threat": "Data leakage",
+    "likelihood": 3,
+    "impact": 4,
+    "owner": "Data Protection Office",
+    "status": "Mitigating"
+  },
+  {
+    "id": "RISK-005",
+    "asset": "Backup Infrastructure",
+    "threat": "Ransomware impact",
+    "likelihood": 2,
+    "impact": 5,
+    "owner": "Cybersecurity Division",
+    "status": "Controlled"
+  }
+]

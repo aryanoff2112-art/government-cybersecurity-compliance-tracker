@@ -1,0 +1,32 @@
+[
+  {
+    "category": "Security Infrastructure",
+    "allocated": 2500000,
+    "spent": 1850000,
+    "department": "Cybersecurity Division"
+  },
+  {
+    "category": "Security Training",
+    "allocated": 500000,
+    "spent": 310000,
+    "department": "Department of Digital Administration"
+  },
+  {
+    "category": "Data Protection Compliance",
+    "allocated": 750000,
+    "spent": 420000,
+    "department": "Data Protection Office"
+  },
+  {
+    "category": "Backup & Disaster Recovery",
+    "allocated": 1200000,
+    "spent": 800000,
+    "department": "Cybersecurity Division"
+  },
+  {
+    "category": "Security Audits",
+    "allocated": 600000,
+    "spent": 275000,
+    "department": "Cybersecurity Division"
+  }
+]

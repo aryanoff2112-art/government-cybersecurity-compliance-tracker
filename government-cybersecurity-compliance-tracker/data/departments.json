@@ -1,0 +1,32 @@
+[
+  {
+    "department": "Department of Digital Administration",
+    "head": "Director",
+    "contact": "dda@example.gov.in",
+    "responsibility": "Digital services and information systems"
+  },
+  {
+    "department": "Cybersecurity Division",
+    "head": "Chief Information Security Officer",
+    "contact": "ciso@example.gov.in",
+    "responsibility": "Security monitoring, incident response and risk management"
+  },
+  {
+    "department": "Data Protection Office",
+    "head": "Data Protection Officer",
+    "contact": "dpo@example.gov.in",
+    "responsibility": "Privacy, data handling and compliance"
+  },
+  {
+    "department": "Finance & Procurement",
+    "head": "Finance Officer",
+    "contact": "finance@example.gov.in",
+    "responsibility": "Budgeting, procurement and expenditure controls"
+  },
+  {
+    "department": "Citizen Services Division",
+    "head": "Service Director",
+    "contact": "services@example.gov.in",
+    "responsibility": "Digital citizen-facing programs"
+  }
+]

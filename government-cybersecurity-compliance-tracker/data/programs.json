@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Digital Citizen Services",
+    "department": "Citizen Services Division",
+    "data_type": "Personal Data",
+    "security_requirement": "Strong authentication, logging and access control",
+    "status": "Active"
+  },
+  {
+    "name": "Secure Government Email",
+    "department": "Cybersecurity Division",
+    "data_type": "Official Communication",
+    "security_requirement": "MFA, anti-phishing and monitoring",
+    "status": "Active"
+  },
+  {
+    "name": "Digital Records Modernization",
+    "department": "Digital Administration",
+    "data_type": "Official Records",
+    "security_requirement": "Integrity, backup and retention controls",
+    "status": "Planning"
+  },
+  {
+    "name": "Government Analytics Program",
+    "department": "Data Protection Office",
+    "data_type": "Aggregated Data",
+    "security_requirement": "Data minimization and controlled access",
+    "status": "Active"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "INC-001",
+    "date": "2026-09-12",
+    "department": "Citizen Services Division",
+    "type": "Phishing Attempt",
+    "severity": "Medium",
+    "status": "Closed",
+    "owner": "Cybersecurity Division"
+  },
+  {
+    "id": "INC-002",
+    "date": "2026-09-19",
+    "department": "Finance & Procurement",
+    "type": "Suspicious Login",
+    "severity": "High",
+    "status": "Investigating",
+    "owner": "Cybersecurity Division"
+  },
+  {
+    "id": "INC-003",
+    "date": "2026-09-25",
+    "department": "Digital Administration",
+    "type": "Vulnerability Alert",
+    "severity": "Medium",
+    "status": "Mitigated",
+    "owner": "Digital Administration"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "CTRL-001",
+    "control": "Multi-factor authentication",
+    "category": "Identity & Access",
+    "owner": "Cybersecurity Division",
+    "status": "Implemented",
+    "priority": "High",
+    "law": "Security Policy"
+  },
+  {
+    "id": "CTRL-002",
+    "control": "Role-based access control",
+    "category": "Identity & Access",
+    "owner": "Cybersecurity Division",
+    "status": "Implemented",
+    "priority": "High",
+    "law": "Security Policy"
+  },
+  {
+    "id": "CTRL-003",
+    "control": "Security audit logging",
+    "category": "Monitoring",
+    "owner": "Cybersecurity Division",
+    "status": "In Progress",
+    "priority": "High",
+    "law": "CERT-In / Security Requirements"
+  },
+  {
+    "id": "CTRL-004",
+    "control": "Data retention review",
+    "category": "Data Protection",
+    "owner": "Data Protection Office",
+    "status": "In Progress",
+    "priority": "Medium",
+    "law": "DPDP Act, 2023"
+  },
+  {
+    "id": "CTRL-005",
+    "control": "Incident response procedure",
+    "category": "Incident Response",
+    "owner": "Cybersecurity Division",
+    "status": "Implemented",
+    "priority": "Critical",
+    "law": "CERT-In / Security Requirements"
+  },
+  {
+    "id": "CTRL-006",
+    "control": "Vendor security assessment",
+    "category": "Third Party Risk",
+    "owner": "Finance & Procurement",
+    "status": "Pending",
+    "priority": "Medium",
+    "law": "Procurement / Security Policy"
+  },
+  {
+    "id": "CTRL-007",
+    "control": "Backup and disaster recovery testing",
+    "category": "Resilience",
+    "owner": "Cybersecurity Division",
+    "status": "Implemented",
+    "priority": "High",
+    "law": "Business Continuity Policy"
+  },
+  {
+    "id": "CTRL-008",
+    "control": "Employee security awareness",
+    "category": "Human Security",
+    "owner": "Department of Digital Administration",
+    "status": "In Progress",
+    "priority": "Medium",
+    "law": "Security Policy"
+  }
+]
