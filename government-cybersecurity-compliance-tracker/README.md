@@ -68,12 +68,10 @@ government-cybersecurity-compliance-tracker/
 │   └── budget.json
 │
 ├── docs/
-│   ├── PROJECT_REPORT.md
-│   ├── SECURITY_MODEL.md
-│   └── GOVERNMENT_PROCEDURES.md
-│
-└── screenshots/
-    └── .gitkeep
+    ├── PROJECT_REPORT.md
+    ├── SECURITY_MODEL.md
+    └── GOVERNMENT_PROCEDURES.md
+
 ```
 
 ## How to Run
