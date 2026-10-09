@@ -2,7 +2,7 @@
 
 A Python-based academic project developed as part of a **Cybersecurity & Data Protection Internship**.
 
-The project models how a government department can track administrative procedures, cybersecurity controls, data protection requirements, risks, incidents, and inter-departmental responsibilities from one dashboard.
+The project models how a government department can track administrative procedures, cybersecurity controls, data protection requirements, risks, incidents, and inter-departmental responsibilities from a single dashboard.
 
 ## Objectives Covered
 
